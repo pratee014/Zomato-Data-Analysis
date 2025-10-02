@@ -4,7 +4,7 @@ A beautiful and interactive data analysis dashboard built with Streamlit to expl
 
 <img width="1919" height="859" alt="1" src="https://github.com/user-attachments/assets/c29fef73-a74e-4bb3-8415-f8a5a7f78519" />
 
-<img width="1915" height="861" alt="2" src="https://github.com/user-attachments/assets/8f342619-5a15-4d35-a47b-b8982cc44144" />
+<img width="1915" height="656" alt="2" src="https://github.com/user-attachments/assets/92e37501-b97f-442f-beed-a56205f5293c" />
 
 <img width="1918" height="857" alt="3" src="https://github.com/user-attachments/assets/5cc9f6a3-836d-40f1-a82e-ac27519d2cfe" />
 
@@ -20,7 +20,7 @@ A beautiful and interactive data analysis dashboard built with Streamlit to expl
 - [Technologies Used](#technologies-used)
 - [Screenshots](#screenshots)
 - [Project Structure](#project-structure)
-- 
+
 ## 🎯 Overview
 
 This project provides a comprehensive analysis of Zomato restaurant data through an interactive web dashboard. It helps users understand:
