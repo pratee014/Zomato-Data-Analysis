@@ -11,14 +11,13 @@ A beautiful and interactive data analysis dashboard built with Streamlit to expl
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Dataset](#dataset)
+- [Overview](#Overview)
+- [Features](#Features)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Dataset](#Dataset)
 - [Analysis Steps](#analysis-steps)
 - [Technologies Used](#technologies-used)
-- [Screenshots](#screenshots)
 - [Project Structure](#project-structure)
 
 ## 🎯 Overview
@@ -166,19 +165,7 @@ The dashboard includes 9 comprehensive analysis steps:
 - **Matplotlib**: Data visualization
 - **Seaborn**: Statistical data visualization
 
-## 📸 Screenshots
 
-### Dashboard Overview
-*Beautiful gradient cards displaying key metrics*
-
-### Restaurant Analysis
-*Interactive charts showing distribution and trends*
-
-### Ratings Comparison
-*Boxplot comparing online vs offline ratings*
-
-### Heatmap Visualization
-*Digital adoption patterns across restaurant types*
 
 ## 📁 Project Structure
 
