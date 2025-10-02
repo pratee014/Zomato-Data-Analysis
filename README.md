@@ -180,6 +180,23 @@ zomato-analysis/
 └── .gitignore                 # Git ignore file
 ```
 
+## Screenshot
+
+<img width="1903" height="852" alt="4" src="https://github.com/user-attachments/assets/1889c5ed-fbb2-42f5-9504-c6dde0a5ebdb" />
+
+<img width="1910" height="840" alt="5" src="https://github.com/user-attachments/assets/43dd270f-f595-4804-bc45-2bae1cb9e1a8" />
+
+<img width="1897" height="842" alt="6" src="https://github.com/user-attachments/assets/0560cb44-a312-4a9e-8e08-e290b4262110" />
+
+<img width="1912" height="857" alt="7" src="https://github.com/user-attachments/assets/98a4b546-0693-42de-aa4c-552a02572d09" />
+
+<img width="1918" height="863" alt="8" src="https://github.com/user-attachments/assets/6178c30f-ad7d-4930-b9c1-f330bdcef860" />
+
+<img width="1897" height="850" alt="9" src="https://github.com/user-attachments/assets/ecaf1837-ba3e-4963-a68e-4c110c132f99" />
+
+<img width="1918" height="826" alt="10" src="https://github.com/user-attachments/assets/f5cb0991-bfb6-474d-b7cb-858c1fecc96f" />
+
+<img width="1907" height="853" alt="11" src="https://github.com/user-attachments/assets/f7542df7-47e4-476d-ad56-0f297fe3607a" />
 
 **⭐ If you find this project helpful, please consider giving it a star!**
 
